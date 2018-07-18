@@ -1,0 +1,2261 @@
+#EXTM3U
+ 
+
+ 
+#EXTINF:-1 tvg-logo="https://www.teledoce.com/wp-content/uploads/2018/06/logo-latele-2016-2-1-3.png" group-title="Uruguay", TELEDOCE
+http://mdstrm.com/live-stream-playlist/5aba9ca777ed89391543b607.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/df/RdDqt.png/revision/latest?cb=20120513211800" group-title="Uruguay", CANAL 10 URU
+http://tv.latintvweb.com:8000/live/DaNieLFL/FLo20re18SDA/82116.ts
+ 
+#EXTINF:-1 tvg-logo="http://www.montevideo.com.uy/plantillas/imagenes/logo-canalm.png" group-title="URUGUAY",CANAL M
+http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w1488231185.m3u8
+ 
+#EXTINF:-1,ARGENTINA:America
+http://level3itvo.cdnar.net/itvmedia/16/1/channel_000.m3u8
+ 
+#EXTINF:-1,ARGENTINA:Canal 4 Jujuy
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/livestream.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1,ARGENTINA:Canal 9
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?teleregiogratis?chile.m3u8
+ 
+#EXTINF:-1,ARGENTINA:Canal Provincial
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+ 
+#EXTINF:-1,ARGENTINA:El Nueve
+http://level3itvo.cdnar.net/itvmedia/17/1/channel_000.m3u8
+ 
+#EXTINF:-1,ARGENTINA:Garage TV ARGENTINA
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+ 
+#EXTINF:-1,ARGENTINA:TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?teleregiogratis?chile.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canalipe.tv/sites/default/files/web/users/user219/logo_chicos_ipe_1.jpg" group-title="INFANTILES", CHICOS IPE
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://niu.cl/wp-content/uploads/2016/09/niu-radio-1024x1024.png" group-title="INFANTILES", NIU TV HD
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist_w2021541242_b1500000_slesp.m3u8
+ 
+#EXTINF:-1,INFANTILES:Telered
+http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+ 
+#EXTINF:-1,INFANTILES:Locomotion
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V4ig3Hn.png" group-title="ESPAÑA", 7TV | SD
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JuJyG1P.png" group-title="PERU", Antares TV | SD
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+ 
+#EXTINF:-1, Azteca + Plus
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AEE7ckO.png" group-title="MEXICO", Azteca A+ | SD
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
+ 
+#EXTINF: -1, Azteca UNO
+http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PJFFPAL.png" group-title="COLOMBIA", Cali TV | SD
+http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LU2WQFP.jpg" group-title="ARGENTINA", Canal 11 Ushuaia | HD
+https://stream.solumedia.com.ar/c11/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VlMzpJH.png" group-title="ESPAÑA", Canal 13 España | SD
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/.m3u8
+ 
+#EXTINF:0, Canal 20 Zacatecas | SD
+http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m504ZL8.png" group-title="ARGENTINA", Canal 26 | HD
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFfX2fC.jpg" group-title="MEXICO", Canal 4 | SD
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1gwf0xO.png" group-title="ARGENTINA", Canal 4 Jujuy | HD
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dFQBOLD.png" group-title="MEXICO", Canal Once IPN  Int. | HD
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4JeqvDc.png" group-title="PERU", Capital TV | SD
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8
+ 
+#EXTINF: -1, CARRIE 1976
+http://axstvdoble.mine.nu/peliculas%20agui/%28C%29/Carrie%20%281976%29/Carrie%20%281976%29%20%281%29.mkv
+ 
+# EXTINF: -1, CARRIE 2013
+http://axstvdoble.mine.nu/peliculas%20agui/%28C%29/Carrie%20%282013%29/Carrie%20%282013%29%20Alternate%20Ending%20%281%29.mkv
+ 
+#EXTINF:0 type="stream" tvg-group="RELIGI?N" , CBN Espa?ol
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+ 
+
+ 
+#EXTINF: -1, DESTINO FINAL 1
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%20%282000%29/Final%20Destination%20%282000%29.mkv
+ 
+#EXTINF: -1, DESTINO FINAL 2
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%202%20%282003%29/Final%20Destination%202%20%282003%29.mkv
+ 
+#EXTINF: -1, DESTINO FINAL 3
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%203%20%282006%29/Final%20Destination%203%20%282006%29.mkv
+ 
+#EXTINF: -1, DESTINO FINAL 4
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%204%20%282009%29/Final%20Destination%204%20%282009%29.mkv
+ 
+#EXTINF: -1, DESTINO FINAL 5
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%205%20%282011%29/Final%20Destination%205%20%282011%29.mkv
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6UuFzgM.jpg" group-title="PERU", Digital TV Peru | HD
+http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/index_1_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WmMGr10.png" group-title="ESPAÑA", Divinity | HD
+http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+ 
+#EXTINF:-1, Ecuavisa
+http://elcanaldelfutbol.com/static/wowza/test/hls/20001/360p/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6R4VLDZ.jpg" group-title="ARGENTINA", El Garaje TV | SD
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+ 
+#EXTINF: -1, ELLA EN MI CUERPO Y EL EN EL MIO
+https://ia600801.us.archive.org/35/items/EllaEnMiCuerpoYElEnElMio/ella%20en%20mi%20cuerpo%20y%20el%20en%20el%20mio.mp4
+ 
+#EXTINF: -1, ELLOS SIEMPRE REGRESAN
+https://ia800800.us.archive.org/18/items/StephenKingEllosSiempreRegresan/Stephen%20King%20%20%20Ellos%20siempre%20regresan.mp4
+ 
+#EXTINF:-1, tvg-logo="http://iptvchile.xyz/Logos/TeVe/enlace%20juvenil.png" group-title="RELIGION", Enlace Juvenil
+http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8?iptvgratis?chile.m3u8
+ 
+# EXTINF: -1, ESTRENOS: Sandy Wexler (2017)
+http://bit.ly/MRAQCSAND
+ 
+# EXTINF: -1, ESTRENOS: THE MINE (2017)
+http://bit.ly/THEMINE
+ 
+#EXTINF:-1 tvg-logo="http://www.unored.tv/wp-content/uploads/2015/08/Extrema-TV-portal-Unored.png", Extrema TV "RELIGION"
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w1792809008.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NPwasj0.png" group-title="ESPAÑA", Extremadura | SD
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kgnflq9.png" group-title="ESPAÑA", FDF | HD
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+ 
+# EXTINF: -1, HIELO ROSA
+http://proxy-068.dc3.dailymotion.com/sec(cd1e5eed08dec399d0cf4498e88e05c0)/video/337/565/175565733_mp4_h264_aac_hq_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/625685641167302657/etQtx5KT.jpg" group-title="CANALES FREE CHILE", HOLVOET TV HD ATACAMA
+http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
+ 
+#EXTINF: -1, HOSTAL 1
+http://axstvdoble.mine.nu/peliculas%20agui/%28H%29/Hostel%20%282005%29/Hostel%20%282005%29%20Dual.mkv
+ 
+#EXTINF: -1, HOSTAL 2
+http://axstvdoble.mine.nu/peliculas%20agui/%28H%29/Hostel-Part%20II%20%282007%29/Hostel-part%20II%20%282007%29%20Dual.mkv
+ 
+#EXTINF: -1, HOSTAL 3
+http://axstvdoble.mine.nu/peliculas%20agui/%28H%29/Hostel-Part%20III%20%282011%29/Hostel-part%20III%282011%29dual.mkv
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xWYteYe.png" group-title="MEXICO", Ingenio TV | SD
+http://live10.cdnmedia.tv/dgtvelive/smil:ingen30.smil/playlist.m3u8
+ 
+#EXTINF:-1, JIG SAW 8
+http://bit.ly/2hpjtK0?RTNews
+ 
+#EXTINF:-1,ANNABELLE , LA CREACION
+https://archive.org/download/4nnSRREGIO.NET/4nnSRREGIO.NET.mkv
+ 
+# EXTINF: -1, LA LEYENDA DE LA NAHUALA
+https://ia600809.us.archive.org/15/items/LaLeyendaDeLaNahuala/La%20Leyenda%20De%20La%20Nahuala.mp4
+ 
+#EXTINF: -1, LA NOVIA DE CHUCKY
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!853&authkey=!AKSBrXTX9RUVsnU&ithint=video%2cmp4
+ 
+#EXTINF: -1, LA OUIJA
+http://axstvdoble.mine.nu/peliculas%20agui/%28O%29/Ouija%202014%20Dual/Ouija%202014%20Dual%20%281%29.mkv
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hHaTdZk.png" group-title="ESPAÑA", La Xarxa | SD
+http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
+ 
+#EXTINF:-1, LOS PITUFOS Y LA ALDEA PERDIDA
+https://archive.org/download/pituregioSRREGIO.NET/pituregio.mkv
+ 
+#EXTINF:-1 tvg-logo="http://ragnaroktv.com/logostv/musica/11.png" group-title="Musica", M2O TV Music
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+ 
+# EXTINF: -1, MAMA
+http://axstvdoble.mine.nu/peliculas%20agui/%28M%29/Mama%20%282013%29/Mama%20%282013%29%201080p%20Bdrip%20Dual-1%20%281%29.mkv
+ 
+#EXTINF:-1 tvg-logo="http://www.unored.tv/wp-content/uploads/2016/05/Manantial-Adoracion-TV.jpeg" group-title="RELIGION", Manantial de Adoración TV
+http://live247tv.com:1935/manantialadoraciontv/manantialadoraciontv/chunklist_wZoiper Click2Dial642591581ES.m3u8
+ 
+
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FiImwkf.png" group-title="PERU", Mega TV Araquipa | SD
+http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0a3xne8.png" group-title="MEXICO", Mexiquense | SD
+http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO", Multimedios Laguna | HD
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO", Multimedios Monterrey | HD
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xwbpj7i.jpg" group-title="PERU", Ovacion | SD
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://radioytvchile.com/wp-content/uploads/2017/11/PANDERO-TOP.jpg" group-title="CANALES FREE MUSICA TV", PANDERO MUSIC TOP TV
+http://evo.eltelon.com:1935/panderotop/smil:panderotop.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://radioytvchile.com/wp-content/uploads/2017/11/PANDERO.jpg" group-title="CANALES FREE MUSICA TV", PANDERO MUSIC TV
+http://evo.eltelon.com:1935/panderocl/smil:panderocl.smil/playlist.m3u8
+ 
+#EXTINF:-1, PELICULA - 1922
+http://bit.ly/2gu7Wbz?RTNews
+ 
+#EXTINF:-1, PELICULA - JEEPERS CREEPERS 3
+https://archive.org/download/JeeCre3SRREGIO/JeeCre3SRREGIO.mkv
+ 
+#EXTINF:-1, PELICULA - PASSAGERS
+http://ow.ly/wVcb30f3tGU?CONEXION?null=?avi?earMy.mp4
+ 
+#EXTINF:-1, PELICULA - WHEELMAN
+http://bit.ly/2yzQ4qf
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rZuWrF8.png" group-title="ARGENTINA", Power HD | HD
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Radio_5_Logo.svg/2000px-Radio_5_Logo.svg.png" group-title="MUSICA", RADIO 105 TV
+http://fms.105.net:1935/live/105Test1/livestream.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LEBQ8B5.png" group-title="MEXICO", RCG 3 | SD
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://cdn.colombia.com/sdi/2018/02/19/a-pesar-de-la-crisis-el-canal-rcn-no-esta-en-quiebra-611066.jpg" group-title="CANALES FREE LATINOS", RCN
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?tecnotv.info?.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Real Madrid Tv
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_2_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF: -1, SAW 2
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20II%20%282005%29%20Ingles/Saw%20II%20%282005%29%20Ingles%20%281%29.mkv
+ 
+#EXTINF: -1, SAW 3
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20III%20%282006%29%20Ingles/Saw%20III%20%282006%29%20Ingles%20%281%29.mkv
+ 
+#EXTINF: -1, SAW 4
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20IV%20%282007%29%20Ingles/Saw%20IV%20%282007%29%20Ingles%20%281%29.mkv
+ 
+#EXTINF: -1, SAW 5
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20V%20%282008%29%20Ingles/Saw%20V%20%282008%29%20Ingles%20%281%29.mkv
+ 
+#EXTINF: -1, SAW 6
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20VI%20%282009%29%20Ingles/Saw%20VI%20%282009%29%20Ingles%20%281%29.mkv
+ 
+#EXTINF: -1, SCREAM LA MASCARA DE LA MUERTE
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Scream%203%20%282000%29%20Dual/Scream%203%20%282000%29%20Dual%20%281%29.mkv
+ 
+# EXTINF: -1, SCREAM VUELVE A GRITAR
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Scream%204%20%282011%29%20Dual/Scream%204%20%282011%29%20Dual%20%281%29.mkv
+ 
+#EXTINF:-1 tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Sevilla-FC-TV/Sevilla-FC-TV_.png" group-title="DEPORTES", SEVILLA TV
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?JoCaRoIPTV.m3u8
+ 
+
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6RSsii5.png" group-title="CHILE", T13 Movil | SD
+http://cdn.ztreaming.com/t13vivo3/t13vivo3.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xu8lnw9.png" group-title="ARGENTINA", Telemax | HD
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/897e9wy.png" group-title="MEXICO", Teleritmo | SD
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+ 
+
+
+ 
+
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TgSeikY.png" group-title="HONDURAS", TEN Honduras | HD
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.unored.tv/wp-content/uploads/2016/02/teve-vida-logo.jpg" group-title="RELIGION", Teve Vida
+http://205.164.56.130:1935/francescojavier522/francescojavier522/chunklist_w395417556.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xcpZ2Gr.jpg" group-title="MEXICO", Tlaxcala TV | SD
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
+ 
+#EXTINF:0, TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7C9rreQ.png" group-title="ESPAÑA", TRECE | SD
+http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jl1Nnd4.png" group-title="ESPAÑA", TV Galicia Europa | SD
+http://europa-crtvg.flumotion.com/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://cronicadexalapa.com/wp-content/uploads/2017/02/tv-mas.jpg" group-title="Entretenimiento", TV Mas
+http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LFJqzx2.png" group-title="ESPAÑA", TV3 | SD
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0c/U_tv.png/revision/latest?cb=20140724130200" group-title="CANALES FREE MUSICA TV", U TV
+http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8?JoCaRoIPTV.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/unesBrV.png" group-title="MEXICO", Ultra TV Puebla | HD
+https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
+ 
+# EXTINF: -1, UNA LARGA COLA ROSA
+http://proxy-066.dc3.dailymotion.com/sec(ee4f2925dbbc307c75908384ea490a21)/video/964/402/181204469_mp4_h264_aac_hq_1.m3u8
+ 
+#EXTINF: -1, VI
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20%282004%29%20Ingles/Saw%20%282004%29%20Ingles%20%281%29.mkv
+ 
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-hD6D7rwyrbI/T8GpYlkl2wI/AAAAAAAAAbE/lW9onkroT6o/s1600/El+Gran+Robo.jpg" group-title="VOD FREE IPTV Evolución", VOD FREE. EL GRAN ROBO
+http://discontrol@media-es-am.crackle.com/1/d/d0/dspyk_480p_1mbps.mp4?disco
+ 
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/dead_again_in_tombstone-246953069-large.jpg" group-title="VOD FREE IPTV Evolución", VOD FREE: DEAD AGAIN IN TOMBSTONE
+https://ia601501.us.archive.org/3/items/1960196002/1960-196002.mkv?earMy.mp4
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/zombies-fanon/images/e/e1/Wawis_el-dia-del-apocalipsis.jpg/revision/latest?cb=20140925005657&path-prefix=es" group-title="VOD FREE IPTV Evolución", VOD FREE: EL DIA DEL APOCALIPSIS
+http://discontrol@media-es-am.crackle.com/1/d/_0/0kpyk_480p_1mbps.mp4?disco
+ 
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/e0/51/ef/e051ef812fe31e51cef7114c6f21c541.jpg" group-title="VOD FREE IPTV Evolución", VOD FREE: EL MAL DENTRO 2017
+https://archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Pelixmax1.avi
+ 
+#EXTINF:-1 tvg-logo="https://i1.wp.com/elmuro.net.co/wp-content/uploads/2017/01/EZ_Poster70x100.jpg?resize=300%2C429" group-title="VOD FREE IPTV Evolución", VOD FREE: ESTACION ZOMBIE
+https://ia601501.us.archive.org/29/items/discotqa_gmail_1.0/TiroLoco.mp4
+ 
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/c_215_290/pictures/17/01/09/09/56/256507.jpg" group-title="VOD FREE IPTV Evolución", VOD FREE: LA BELLA Y LA BESTIA
+https://ia601503.us.archive.org/11/items/454as65dd5ad45dsa54/454as65dd5ad45dsa54.mp4?Pelixmax1.mp4
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/Mine_2016_film.jpg" group-title="VOD FREE IPTV Evolución", VOD FREE: LA MINA
+https://ia801603.us.archive.org/20/items/24052017Aqc789423784723984/24052017_aqc.mkv?PelixMax1.mkv
+ 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/G98R2WReTKs/maxresdefault.jpg" group-title="VOD FREE IPTV Evolución", VOD FREE: MATRIX
+http://www.deadlyblogger.com/NewRelease/matrix1.mp4
+ 
+#EXTINF:-1 tvg-logo="http://filmakias.gr/wp-content/uploads/2018/02/sahara-netflix-2017-poster2.jpg" group-title="VOD FREE IPTV Evolución", VOD FREE: SAHARA
+https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4?PelixMax1.mp4
+ 
+#EXTGRP:PREMIUM
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+ 
+#EXTINF:-1,¡Scooby-doo! y el intrépido Batman
+https://ia601505.us.archive.org/19/items/scobyCeceGeek/scobyCeceGeek.mkv
+ 
+#EXTINF:-1,10000 B.C |
+https://movies1.ottmex.com/disk1/accion/10000.MP4
+ 
+#EXTINF:-1,12 Rounds 3 Lockdown |
+https://movies1.ottmex.com/disk1/accion/12.r0unds.3.l0ckd0wn.2016.dvdrip.latino.gnula1.mp4.mp4
+ 
+#EXTINF:-1,13 Guerreros |
+https://movies1.ottmex.com/disk1/accion/13guerreros.MP4
+ 
+#EXTINF:-1,13 TV
+http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
+ 
+#EXTINF:0,15 TV
+http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
+ 
+#EXTINF:0,24/7 Noticias
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+ 
+#EXTINF:-1,24hrs Para Sobrevivir SUB |
+http://regiotv.xyz/24hrssobrevivir
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://statics.ccma.cat/multimedia/jpg/7/9/1466521666097.jpg" group-title="SPAIN",3/24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+ 
+#EXTINF:0,A MAS
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8
+ 
+#EXTINF:0,ADN 40
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_1_av-p.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.vsn-tv.com/wp-content/uploads/2014/11/logo_atv.jpg" group-title="SPAIN",Andorra TV (Andorra)
+http://194.158.80.31:443/live/rtva/playlist.m3u8
+ 
+#EXTINF:-1,Anon |
+http://srregio.xyz/regioflix/anon
+ 
+#EXTINF:-1 tvg-name="Aprende TV" tvg-logo="https://i.imgur.com/CkGoWvx.png" group-title="MEXICO",Aprende TV Mexico City
+http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/aragon-tv-logo.png" group-title="SPAIN",Aragon TV
+http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
+ 
+#EXTINF:-1,ARGENTINA:Canal 2 Telpin Tv
+http://wowza.telpin.com.ar:1935/telpintv/ttv.stream_720p/playlist.m3u8?teleregiogratis?chile.m3u8
+ 
+#EXTINF:-1,ARGENTINA:Europa Europa ARGENTINA
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w437571733.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/R/red-atb-bolivia-logo-2ABBEC408E-seeklogo.com.gif" group-title="BOLIVIA",ATB
+http://stmv1.questreaming.com/atb/atb/playlist.m3u8?wowzasessionid=Zoiper Click2Dial658130495ES
+ 
+#EXTINF:-1,Avengers: Age Of Ultron
+http://axstvdoble.mine.nu/peliculas%20agui/(T)/the%20Avengers%20Age%20of%20Ultron%20(2015)%20Dual/the%20Avengers%20Age%20of%20Ultron%20(2015)%20Dual%20(1).mkv
+ 
+#EXTINF:0,AZTECA HD
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_2_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1,azteca trece
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://forounivers.com/uploads/monthly_2017_10/large.59f01991ea5b2_AztecaUno.png.7af86b58cd5ac04059264491a40068e9.png" group-title="MEXICO",Azteca Uno
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+ 
+#EXTINF:-1,Bailarina |
+https://archive.org/download/21354gSRREGIO.NET/21354g216d66855x.mp4
+ 
+
+ 
+#EXTINF:-1,Batman V Superman: Dawn Of Justice
+http://axstvdoble.mine.nu/peliculas%20agui/(B)/Batman%20v%20Superman%20Dawn%20of%20Justice%20(2016)%20Dual/Batman%20v%20Superman%20Dawn%20of%20Justice%20(2016)%20Dual.mkv
+ 
+#EXTINF:-1,Batman y Harley Queen |
+https://ia801502.us.archive.org/8/items/33548979815123SRREGIO/33548979815123.mp4
+ 
+#EXTINF:-1,Battleship Batalla Naval |
+https://archive.org/download/BatSRREGIO/BatSRREGIO.mkv
+ 
+#EXTINF:-1,Bolivia 2 FTA
+http://streamer1.streamhost.org:1935/salive/GMIalfam/playlist.m3u8
+ 
+#EXTINF:-1,BOLIVIA:Red Pat
+http://192.99.38.174:1935/patbolivia/patlapaz/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://16375562-731807891195524306.preview.editmysite.com/uploads/1/6/3/7/16375562/ic-perfect-player-banner_orig.png",CABLE NOTICIAS COLOMBIA
+http://cnmedia.eastus2.cloudapp.azure.com:1935/live/cablenoticiastv_360p/chunklist_w287478439.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvdxtips.com/canal10chiapas2015.jpg" group-title="MEXICO",Canal 10 Chiapas
+http://klive-a.akamaihd.net/dc-0/live/hls/p/290412/e/0_es0kdjdz/sd/10000/t/bj1DqoE8O0tNhHgd6BvqXQ/index-s32.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Tv-rionegrina-lu92-tv-canal-10-logo.png" group-title="ARGENTINA",Canal 10 Rio Negro
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+ 
+#EXTINF:-1,CANAL 11
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8
+ 
+#EXTINF:-1,CANAL 11 MEXICO
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w1339977921_b1300000_slesp.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/canal2nicaragua.png" group-title="NICARAGUA",Canal 2
+http://162.244.81.181:1935/live//Stream1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/667370725070807046/eiynCQK4.png" group-title="ARGENTINA",Canal 2 Dean Funes
+http://streaming.arcast.tv:1935/envivo/marcos/chunklist_w1699680288.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canal25tv.es/images/template-content/untitled.png" group-title="SPAIN",Canal 25
+http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9ggyiEM.png" group-title="MEXICO",Canal 26 Aguascalientes
+http://xaguascalientesx.api.channel.livestream.com/3.0/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-m1LD7LlIoT8/VO_8EeyIQXI/AAAAAAAABgY/mjy3X_z4ezA/s1600/Canal%2B26%2Ben%2Bvivo%2Bonline%2Bon%2Bline.png",CANAL 26 ARGENTINA
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5HTSXV4.png" group-title="ARGENTINA",Canal 26 Buenos Aires (Opt-1)
+http://200.115.193.177/live/26hd-720/.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5HTSXV4.png" group-title="ARGENTINA",Canal 26 Buenos Aires (Opt-2)
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/3_de_guatemala_el_super_canal-mediano.png" group-title="GUATEMALA",Canal 3
+http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_3.smil/chunklist_b1155072.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fgrauI0.png" group-title="ARGENTINA",Canal 4 Posadas
+http://184.154.28.210:1935/canal4/canal4/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/07/Canal4-SanJuan-FDG.jpg" group-title="ARGENTINA",Canal 4 San Juan
+http://streamyes.alsolnet.com:1935/canal4sanjuan/live/chunklist_wZoiper Click2Dial931974462ES.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/899041603381342209/NhdwgCEj.jpg" group-title="ARGENTINA",Canal 5 Concepcion Tucuman
+http://Zoiper Click2Dial5.179.201.88ES:1935/golive/59_179_live/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XHauFcA.png" group-title="ARGENTINA",Canal 5 Telesol
+http://149.56.98.124:9090/hls/telesol.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/w3rrFsy.png" group-title="ARGENTINA",Canal 79 Mar del Plata
+http://painel.serveron.com.br:1935/8168/8168/live.m3u8
+ 
+#EXTINF:1,CANAL 8
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nD9TVZg.jpg" group-title="ARGENTINA",Canal 9 Comodoro Rivadavia
+http://live.canalnueve.tv:8082/hls/canal.m3u8
+ 
+#EXTINF:-1,CANAL CIELO
+http://swow1.blogtimedia.com:1935/cielotv/myStream.sdp/chunklist_w2112656290.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xr4EiV2.png" group-title="MEXICO",Canal del Congreso
+http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/chunklist_b500000.m3u8
+ 
+#EXTINF:-1, tvg-logo="http://www.mundoplus.tv/img/6fb358fa640c07279bfdad56844ba8ab" group-title="ESPAÑA",Canal Extremadura
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PV6BVbi.png" group-title="MEXICO",Canal Judicial
+http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.estabueno.com.ar/wp-content/uploads/2015/03/canal-local1.jpg" group-title="ARGENTINA",Canal Local Olavarria
+http://186.0.180.11:1935/festival/mp4:festival/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://pbs.twimg.com/profile_images/820069016995827713/8zvK56V4.jpg" group-title="Mundial Rusia",Canal Mundial 9
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_1_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1,canal once
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w1790447454_b1300000_slesp.m3u8
+ 
+#EXTINF:-1,CANAL ONCE
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w88942915_b1300000_slesp.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ptvtelecom.com/ficheros/imagennoticia311_0.jpg" group-title="SPAIN",Canal Parlamento (Updated)
+http://congresodirecto-f.akamaihd.net:80/i/congreso6_1@54665/master.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://costarica.latv.info/canal-15-ucr-online.png" group-title="COSTA RICA",Canal UCR
+http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
+ 
+#EXTINF:-1,CANAL WOW
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/c/cd/Televisión_Canaria_SAT_logo_2008.png" group-title="SPAIN",Canaria SAT*
+http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b480000_sles.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8D1LrKO.png" group-title="ECUADOR",Canela TV
+http://servicioamerica.com:1935/8200/8200/playlist.m3u8
+ 
+#EXTINF:0,CAPITAL TV PERÚ
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1,CARS 2
+https://ia601509.us.archive.org/31/items/MilOchoMil005/MilOchoMil_005.mp4?earMy.mp4
+ 
+#EXTINF:-1,CARS 3
+https://ia801506.us.archive.org/21/items/pickidj74_gmail_Cars/cars.mp4
+ 
+#EXTINF:0, tvg-logo="http://www.freeetv.com/images/01_logo/cbn_tv_usa.jpg" group-title="RELIGION",CBN Español
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8?iptvgratis?chile.m3u8
+No realizó cambios que guardar.
+ 
+#EXTINF:-1,cdm int
+http://205.164.56.130:1935/marcos536/marcos536/chunklist_w1084291374.m3u8
+ 
+#EXTINF:-1,Cementerio de Mascotas |
+https://archive.org/download/06052017AQC06052017/06052017_AQC.avi
+ 
+#EXTINF:-1 tvg-logo="https://16375562-731807891195524306.preview.editmysite.com/uploads/1/6/3/7/16375562/ic-perfect-player-banner_orig.png",CGTN ESPAÑOL
+https://livees.cgtn.com/1000e/prog_index.m3u8
+ 
+#EXTINF:-1,Charlie y La Fabrica de Chocolate |
+https://movies1.ottmex.com/disk1/infantiles/charlieylafabricadechocolate.mp4
+ 
+#EXTINF:-1,CHILE:Camara de Diputados HD
+http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
+ 
+#EXTINF:-1,CHILE:Carolina TV
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+ 
+#EXTINF:-1,CHILE:CHV 4 SD
+http://live.hls.http.chv.ztreaming.com/chvhdtablet/chv-tablet.m3u8?teleregiogratis?chile.m3u8
+ 
+#EXTINF:-1,CHILE:Tv Senado 1 HD
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
+ 
+#EXTINF:-1,CHILE:Tv Senado 2 SD
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd
+ 
+#EXTINF:0,CHILEVISION
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
+ 
+#EXTINF:0, tvg-logo="http://www.tricom.com.do/sites/default/files/logos/CieloTV.png" group-title="RELIGION",Cielo TV
+http://wan-lbf.net:1935/cielotv/myStream.sdp/playlist.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1,CIELO TV MUNDO CRUEL IPTV
+http://swow1.blogtimedia.com:1935/cielotv/myStream.sdp/chunklist_w146683974.m3u8
+ 
+#EXTINF:-1,CILENCE TV
+http://109.236.85.100:8081/sipTV/live/playlist.m3u8?www.tecnotv.info
+ 
+#EXTINF:-1,CINE:Thor Ragnarok Castellano
+http://bit.ly/2xx2sUg?RTNews
+ 
+#EXTINF:-1 tvg-logo="https://16375562-731807891195524306.preview.editmysite.com/uploads/1/6/3/7/16375562/ic-perfect-player-banner_orig.png",CNN CHILE
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1,COLOMBIA:Telemedellin
+http://level3itvo.cdnar.net/itvmedia/14/1/channel_000.m3u8
+ 
+#EXTINF:-1,COLOSAL TV
+http://k3.usastreams.com:1935/colosaltv1/colosaltv1/live.m3u8
+ 
+#EXTINF:-1,Comedia:Sandy Wexler
+http://tecnotv.xyz/id=multi20/peliculas/sandywexler.php
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sbgi.net/wp-content/uploads/2015/11/comet-logo.jpg" group-title="USA",Comet TV (Geo)
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
+ 
+#EXTINF:-1,Como cortar a tu patan |
+https://ia601508.us.archive.org/4/items/patan/patan.mp4
+ 
+#EXTINF:-1,comunion tv
+http://50.30.37.36:1935/live/smil:MyStream.smil/chunklist_w10689679_b849000_sleng.m3u8
+ 
+#EXTINF:0, tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/202/19839661.549005a5a2716.png" group-title="RELIGION",Comunion TV
+http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://files.antenista.webnode.es/200002504-5844f5c19b/costa%20del%20sol%20tv%20abm%20antenista%20en%20malaga.png" group-title="SPAIN",Costa del Sol TV
+http://cls.todostreaming.eu/benalmadena/webtv/chunklist.m3u8
+ 
+#EXTINF:-1,COSTA RICA:Colosal TV
+http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8
+ 
+#EXTINF:-1,COSTA RICA:HBTV Ticavision
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+ 
+#EXTINF:-1,COSTA RICA:Telesur
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+ 
+#EXTINF:-1,COSTA RICA:TeleUno TV
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
+ 
+#EXTINF:-1,COSTA RICA:TV Sur 14
+http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
+ 
+#EXTINF:-1,Cristovision
+http://live10.cdnmedia.tv/cristovisionlive/smil:live.smil/chunklist_b500000.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1, group-title="RELIGION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Cristovisi%C3%B3n_Logo.png",Cristovision
+http://live10.cdnmedia.tv/cristovisionlive/smil:live.smil/chunklist_b500000.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PgkXesQ.png" group-title="USA",C-SPAN 3
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
+ 
+#EXTINF:0, tvg-logo="http://www.wtjr.org/uploads/8/4/5/8/8458149/7569092_orig.png" group-title="RELIGION",CTNi
+http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:0,CTNi
+http://184.164.158.202:1936/48/smil:48.smil/chunklist_w337385504_b1564000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.puntoycomareino.com/uploads/3/9/0/7/3907444/b6216_orig.jpg" group-title="CHRISTIANITY",CTNi (USA) [ES]
+http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
+ 
+#EXTINF:-1,Cuando nos Conocimos |
+https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
+ 
+#EXTINF:-1,Cult Of Chucky |
+https://archive.org/download/00000007.SRREGIO/00000007.SRREGIO.mkv
+ 
+#EXTINF:-1,Cultura:DW Entretenimiento
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1,Cultura:Garage TV
+http://186.0.233.76:1935/Garage/garage.smil/chunklist_wZoiper Click2Dial846352619ES_b446000_sleng.m3u8
+ 
+#EXTINF:-1,CULTURA:Silence TV
+http://109.236.85.100:8081/sipTV/live/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aPGyO9l.png" group-title="USA",Daytona Beach TV
+http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
+ 
+
+http://axstvdoble.mine.nu/peliculas%20agui/(D)/Deadpool%20(2016)/Deadpool%20(2016).mkv
+ 
+#EXTINF:-1,Deadpool |
+https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
+
+#EXTINF:-1,Despicable Me 2
+http://axstvdoble.mine.nu/peliculas%20agui/(D)/Despicable%20Me%202%20(2013)/Despicable%20Me%202%20(2013).mkv
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YEs2cGe.png" group-title="LATINO",Deutsche Welle
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+ 
+#EXTINF:-1,Digital 15
+http://bit.ly/2CLgJ6u
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d5/Digital_TV_Peru.jpg" group-title="ENTRETENIMIENTO",Digital TV (Peru)
+http://uvodscp-lh.akamaihd.net:80/i/ped001rtmp_1@460473/master.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d5/Digital_TV_Peru.jpg" group-title="PERU",Digital TV 2
+http://uvodscp-lh.akamaihd.net:80/i/ped002rtmp_1@460476/index_1_av-p.m3u8
+ 
+#EXTINF:-1,Dirty Grandpa
+http://axstvdoble.mine.nu/peliculas%20agui/(D)/Dirty%20Grandpa%20(2016)%20UNRATED/Dirty%20Grandpa%20(2016)%20Unrated-2%20(1).mkv
+ 
+#EXTINF:-1,Discovery Civilization MUNDO CRUEL IPTV
+http://freeiptv.apisecurers.com/canal_61_discoverycivilization.m3u8
+ 
+#EXTINF:-1,Discovery MUNDO CRUEL IPTV
+http://vignette4.wikia.nocookie.net/logopedia/images/d/d9/Discovery_Home_%26_Health_HD.png/revision/latest?cb=20160812225428,Discovery
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aQpCSh8.png" group-title="USA",District Knowledge Network
+http://video.oct.dc.gov/out/u/96_4.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xGjchpW.png" group-title="USA",District of Columbia Network
+http://video.oct.dc.gov/out/u/DCN.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png" group-title="SPAIN",Divinity
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
+ 
+#EXTINF:-1,DJING
+http://www.djing.com/tv/ibiza.m3u8
+ 
+#EXTINF:-1,Doctor Strange |
+https://ia801505.us.archive.org/11/items/dsSRREGIO/dsSRREGIO.mp4
+ 
+#EXTINF:-1,DOMINICAN REP:Digital 15
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0011&mode=12
+ 
+#EXTINF:-1,DOMINICAN REP:MicroVision Canal 10
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+ 
+#EXTINF:-1,DOMINICAN REP:Telemicro Canal 5  (Opt-2)
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0005&mode=12
+ 
+#EXTINF:-1,DOMINICAN REP:Telenord Canal 10
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0027&mode=12
+ 
+#EXTINF:-1,DOMINICAN REP:Telenord Canal 12
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0028&mode=12
+ 
+#EXTINF:-1,DOMINICAN REP:Telenord Canal 14
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0029&mode=12
+ 
+#EXTINF:-1,DOMINICAN REP:Telenord Canal 8
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0026&mode=12
+ 
+#EXTINF:-1,DOMINICAN REP:Xtremo Channel
+http://ss6.domint.net:1948/zol_str/vzol/playlist.m3u8
+ 
+#EXTINF:-1,DOMINICANA:CANAL 4
+http://45.35.46.43:1935/live/canal4/playlist.m3u8
+ 
+#EXTINF:-1,DOMINICANA:CANAL 5
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0005&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESREPDOM.png
+ 
+#EXTINF:-1,Drama:Sand Castle
+http://tecnotv.xyz/id=multi20/peliculas/sandcastle.php
+ 
+
+ 
+#EXTINF:-1,Duelo de Titanes |
+https://archive.org/download/dudtitSRREGIO/Duelo%20de%20Titanes.SRREGIO.mkv
+ 
+
+ 
+#EXTINF:0,EBENEZER TV
+http://hds4.worldkast.com:1935/ebenezertv2/ebenezertv2/live.m3u8
+ 
+#EXTINF:-1,ECUADOR:Centro Ecuador
+https://ott.streann.com/loadbalancer/services/public/channels-secure/57cef28b2cdc6843385b86ce/playlist.m3u8
+ 
+#EXTINF:-1,ECUADOR:ECUAVISA HD
+http://elcanaldelfutbol.com/static/wowza/test/hls/20001/720p/playlist.m3u8
+ 
+#EXTINF:-1,ECUADOR:ECUAVISA SD
+http://elcanaldelfutbol.com/static/wowza/test/hls/20001/480p/playlist.m3u8
+ 
+#EXTINF:-1,ECUADOR:TC HD
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
+ 
+#EXTINF:-1,ECUADOR:Television Nacional
+http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8?teleregiogratis?chile.m3u8
+ 
+#EXTINF:-1,ECUADOR:TVN
+http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="https://jefedejefes.files.wordpress.com/2009/04/logo_teaser.jpg" group-title="MEXICO",Efekto Tv SD
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.el1webtv.com.ar/wp-content/uploads/2016/08/logo.png" group-title="ARGENTINA",El 1 Web TV La Matanza
+http://server4.stweb.tv/unlam/ngrp:video1_all/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.el10tv.com/images/logo_footer.png" group-title="ARGENTINA",El 10 Salta
+http://173.244.209.235:1935/viviloendirecto/psigroup/chunklist_w349709429.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://imgur.com/1oapo3E.png" group-title="INFANTIL",El Chavo
+http://tecnotv.xyz/chavo.php
+ 
+#EXTINF:-1,El Chavo Animado
+http://3.sendvid.com/y00xutjl.mp4
+ 
+#EXTINF:-1,El Chavo VOD
+https://goo.gl/8W1wKL
+ 
+#EXTINF:-1,El Demoledor / Demolition Man (1993)
+https://onedrive.live.com/download.aspx?resid=8ADA9BC2B99CC76E%212283&authkey=!AMEciUfjpu-IWmY
+ 
+#EXTINF:-1, tvg-logo="http://elmesias.es/img/el-mesias-logo-1424452598.jpg" group-title="RELIGION",El Mesias Tv
+http://server120416w1.a1network.net:1935/elmesias/elmesias.sdp/playlist.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1,El Pajaro Loco (2017)
+https://onedrive.live.com/download?resid=B888FB534F70FD05!110&authkey=!AM5XJ6LVREdRzhc
+ 
+#EXTINF:-1,El Rostro De Un Angel |
+https://archive.org/download/angelSRREGIO/el.rostro.de.un.angelSRREGIO.mkv
+ 
+#EXTINF:-1,EL SALVADOR:Canal 21
+http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
+ 
+#EXTINF:-1,EL SALVADOR:TVES Canal 10
+http://198.24.135.42/canal10/canal10/playlist.m3u8
+ 
+#EXTINF:-1,elimtv el salvador
+https://dcunilive15-lh.akamaihd.net/i/dclive_1@397642/index_150_av-p.m3u8?sd=6&rebase=on
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canal10.cat/img/logofacebook_400x400.jpg" group-title="SPAIN",Emporda TV
+http://ventdelnord.tv:8080/escala/directe.m3u8
+ 
+#EXTINF:-1,Encuentro Cercano del 3er Tipo |
+https://archive.org/download/3213265489SRREGIO.NET/321326548978778798797997.mkv
+ 
+#EXTINF:-1,  tvg-logo="https://k60.kn3.net/6/D/0/F/8/4/C5D.png" group-title="RELIGION",Enlace
+http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/index_1728_av-b.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:0,ENLACE JUVENIL
+http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/index_1728_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptvchile.xyz/Logos/TeVe/enlace%20juvenil.png" group-title="CHRISTIANITY",Enlace Juvenil (Costa Rica)
+http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
+ 
+#EXTINF:-1,Entretenimiento:A+
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_1_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1,Entretenimiento:ADN 40
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
+ 
+#EXTINF:-1,Entretenimiento:Cablenoticias
+http://cnmedia.eastus2.cloudapp.azure.com:1935/live/cablenoticiastv/.m3u8
+ 
+#EXTINF:-1,Entretenimiento:Canal 10
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+ 
+#EXTINF:-1,Entretenimiento:Canal 22
+http://api.new.livestream.com/accounts/16458468/events/4574813/live.m3u8?
+ 
+#EXTINF:-1,ENTRETENIMIENTO:Canal 9 (Argentina)
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+ 
+#EXTINF:-1,Entretenimiento:Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8?
+ 
+#EXTINF:-1,Entretenimiento:Chilevision
+http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
+ 
+#EXTINF:-1,Entretenimiento:Efekto TV HD
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_1_av-p.m3u8
+ 
+#EXTINF:-1,Entretenimiento:Europa Canal 4
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w1691605234.m3u8
+ 
+#EXTINF:-1,Entretenimiento:LifeTV
+http://178.132.6.97/uzivo/lifetvesp/playlist.m3u8
+ 
+#EXTINF:-1,Entretenimiento:Multimedios Monterrey
+http://d94e53mlfpla6.cloudfront.net/out/v1/3a53b73e7c244f3191c539f4790c6b73/index_4.m3u8?&dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fmonterrey
+ 
+#EXTINF:-1,Entretenimiento:Net TV
+http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
+ 
+#EXTINF:-1,Entretenimiento:Next TV
+http://198.1.117.5:1935/live/livestream/.m3u8
+ 
+#EXTINF:-1,Entretenimiento:NexTV
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8?
+ 
+#EXTINF:-1,Entretenimiento:NiuMedia
+http://cl.origin.grupoz.cl/niutv/live.smil/.m3u8
+ 
+#EXTINF:-1,Entretenimiento:Ocho TV
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
+ 
+#EXTINF:-1,Entretenimiento:TC
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
+ 
+#EXTINF:-1,Entretenimiento:TecTV
+http://lsd2-latam.secure2.footprint.net/hls-live/streamroot_lsd2latam-tectv/_definst_/live.m3u8
+ 
+#EXTINF:-1,Entretenimiento:Telpin
+http://wowza.telpin.com.ar:1935/telpintv/ttv.stream_720p/.m3u8
+ 
+#EXTINF:-1,Entretenimiento:Telpin
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/chunklist_w1656240835.m3u8?
+ 
+#EXTINF:-1,Entretenimiento:TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8
+ 
+#EXTINF:-1,Entretenimiento:TV Chile
+http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
+ 
+#EXTINF:-1,Entretenimiento:TVP Los Mochis
+https://5a3911d64928b.streamlock.net/gpacifico2/smil:mochis.smil/chunklist_w1578529085_b978000_sleng.m3u8
+ 
+#EXTINF:-1,Entretenimiento:UESTV
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+ 
+#EXTINF:-1,Entretenimiento:UMAG TV
+http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
+ 
+
+#EXTINF:-1,Entretenimiento:Uno
+http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?
+ 
+#EXTINF:-1,Entretenimiento:VTV
+http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8
+ 
+#EXTINF:-1,Entretenimiento:VTV 2
+http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
+ 
+#EXTINF:-1,Espa & ntilde; a: MEGA ESPANA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8?JoCaRoIPTV.m3u8
+ 
+#EXTINF:-1,ESPAÑA
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on
+ 
+
+#EXTINF:-1,España:Canal 13 TV
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
+ 
+#EXTINF:-1,España:Divinity
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
+ 
+#EXTINF:-1,España:ETB Sat
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
+ 
+#EXTINF:-1,España:Teleformula
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+ 
+#EXTINF:-1,Estrenos:Espiando A Los Vecinos
+http://cecegeek@goo.gl/n6SNxR
+ 
+#EXTINF:-1,Estrenos:JackReacher 2
+http://cecegeek@goo.gl/g7Uyn3
+ 
+#EXTINF:-1,Estrenos:la llegada
+http://cecegeek@goo.gl/rI3sYc
+ 
+#EXTINF:-1,Estrenos:Moana
+http://cecegeek@goo.gl/FQ2PRH
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-Grt64gpUA1w/UZH6VNoXDZI/AAAAAAAAXK4/aOHkzPorWAQ/s1600/etb-sat.png" group-title="SPAIN",ETB Sat
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://trucoslondres.com/wp-content/uploads/2017/04/Sports-9.png?x81811" group-title="DEPORTES 2",Eventos
+http://stdephds-lh.akamaihd.net/i/ad3pst01hds_1@335204/index_1296_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1,Expedientes Secretos X |
+https://archive.org/download/EXPEDIENTESX.SRREGIO.NET/EXPEDIENTESSECRETOSX.SRREGIO.NET.mkv
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-r5FUlfpFc_E/Vr5SxX2MghI/AAAAAAAAm9U/qlP08upqPzI/s1600/extra_tv42.png" group-title="COSTA RICA",Extra TV 42
+http://k3.usastreams.com:1935/canal42/canal42/live.m3u8
+ 
+#EXTINF:-1,extrema tv
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w1588054240.m3u8
+ 
+#EXTINF:-1,Fantasia:Harry Potter 1
+http://tecnotv.xyz/id=multi20/peliculas/lapiedrafilosofal.php
+ 
+#EXTINF:-1,Fantasia:Harry Potter 4
+http://tecnotv.xyz/id=multi20/peliculas/calizdefuego.php
+ 
+#EXTINF:-1,FDF
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8
+ 
+#EXTINF:0,FORO TV
+http://jadegames.ml/Content/HLS/Live/Channel(FOROTV_HD)/index.m3u8
+ 
+#EXTINF:-1,Fragiles |
+https://archive.org/download/FraSRREGIO/FraSRREGIO.mkv
+ 
+#EXTINF:-1 tvg-logo="https://imgur.com/cdXmXtl.jpg" group-title="24/7",Futurama
+http://tecnotv.xyz/futurama.php
+ 
+#EXTINF:0,GALA TV
+http://jadegames.ml/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8
+ 
+#EXTINF:-1, group-title="RELIGION" tvg-logo="http://ghtelevision.com/images/gh_television_logo_sm.png",GH Television
+http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8
+ 
+#EXTINF:0,Golden
+http://jadegames.ml/Content/HLS/Live/Channel(GOLDEN_HD)/Stream(06)/index.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/7CAp43AuvzB0CmUcDXCxuTuT5dkz80zYzGbvttDNhPGJ1joBnTpGG4YOiMj7dulSZaA=w300" group-title="CHRISTIANITY",Gracia TV (Chile)*
+http://v3.tustreaming.cl:80/graciatv/live1/index.m3u8
+ 
+#EXTINF:-1,group-title="Canales COSTA RICA"
+http://www.imagenesmedicas.cr/web/wp-content/uploads/2015/05/Teletica-1.jpg"
+ 
+#EXTINF:-1,group-title="ESPAÑA" La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta/lasexta_1@35272/index_3_av-p.m3u8?sd=10&rebase=on
+ef28b2cdc6843385b86ce/playlist.m3u8
+ 
+#EXTINF:-1,group-title="ESPAÑA" La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta/lasexta_1@35272/index_3_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1,Guardianes de la Galaxia |
+https://goo.gl/sFaEVq
+ 
+#EXTINF:-1,Hasta Pronto Christoper Robin |
+http://regiotv.xyz/christoperrobin
+ 
+#EXTINF:-1,HD Fashion MUNDO CRUEL IPTV
+http://Zoiper Click2Dial95.67.47.115ES/hls/hdfashion_ua_hi/index.m3u8
+ 
+#EXTINF:-1,Heart
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?JoCaRoIPTV.m3u8
+ 
+#EXTINF:-1,Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?hd=10&rebase=on
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%20tv%20Series%20y%20Animes%20de%20Tv.png" group-title="SPAIN",Hit TV (Opt-1)
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%20tv%20Series%20y%20Animes%20de%20Tv.png" group-title="SPAIN",Hit TV (Opt-2)
+http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
+ 
+#EXTINF:-1,Holvoet TV Chile
+http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
+ 
+#EXTINF:-1,HONDURAS:Azteca Honduras
+http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
+ 
+#EXTINF:-1,HONDURAS:Campus HD
+http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
+ 
+#EXTINF:-1,HONDURAS:HCH
+http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8
+ 
+#EXTINF:-1,HONDURAS:Teleceiba Canal 7
+http://190.11.224.14:8134/liveevent.m3u8
+ 
+#EXTINF:-1,HONDURAS:TEN Canal 10
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+ 
+#EXTINF:-1,HONDURAS:TEN Canal 10 SD
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1248000.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hlot5v7.png" group-title="USA",House of Representatives
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
+ 
+#EXTINF:-1,Huye |
+https://ia601500.us.archive.org/27/items/Cheverefans0012017/cheverefans%200012017.mp4?null=
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/6/62/IB3_logo_2008_1.jpg" group-title="SPAIN",IB3
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_2.m3u8
+ 
+#EXTINF:-1,ID Fashion MUNDO CRUEL IPTV
+http://95.67.8.22/hls/idfashion/index.m3u8
+ 
+#EXTINF:-1, group-title="RELIGION" tvg-logo="http://www.iglesiadelcamino.org/images/logo.png",Iglesia del Camino
+http://streamingcontrol.com:1935/ectv/ectv/chunklist_wZoiper Click2DialZoiper Click2Dial615405992ESES.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/8pbx0w7B8m0ymgPYU0H1KC2dNDOx48Yn24HPwTFe00JC7ym8Nrs6XbpY6X0INKYLqVSG=w300"group-title="Canales",IMPACTOVISION
+http://50.7.98.236:1935/gnode03/smil:gnode03.smil/chunklist_w1994341323_b978000_sleng.m3u8
+ 
+#EXTINF:-1,Independence Day: Resurgence
+http://axstvdoble.mine.nu/peliculas%20agui/(I)/Independence%20Day%20Resurgence%20(2016)%20dual/Independence%20Day%20Resurgence%202016%20dual.mkv
+ 
+#EXTINF:-1,Infantil:La bella y la bestia
+http://tecnotv.xyz/id=multi20/peliculas/labellaylabestia.php
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VEd3y4O.png" group-title="USA",InfoWars
+http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
+ 
+#EXTINF:-1,Intensamente |
+https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
+ 
+#EXTINF:-1,Internacional:AdultSwim LIVE
+http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
+ 
+#EXTINF:-1,Internacional:AlJazeera Arabe
+http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index.m3u8
+ 
+#EXTINF:-1,Internacional:CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+ 
+#EXTINF:-1,Internacional:CGTN ES
+http://livees.cgtn.com/1000e/prog_index.m3u8
+ 
+#EXTINF:-1,Internacional:EartCam Street
+http://video3.earthcam.com/fecnetwork/9974.flv/.m3u8
+ 
+#EXTINF:-1,Internacional:EarthCam SouthView
+http://video3.earthcam.com/fecnetwork/4017timessquare.flv/.m3u8
+ 
+#EXTINF:-1,Internacional:NASA
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:-1,Internacional:NHK Wolrd Japon
+http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index.m3u8
+ 
+#EXTINF:-1,Internacional:Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8?
+ 
+#EXTINF:-1,Internacional:WeatherNation USA
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/.m3u8
+ 
+#EXTINF:0,IPTV : 233
+http://stream.grupoabchn.com:1935/TENHD/smil:TENLive.smil/chunklist_w562335381_b1848000.m3u8
+ 
+#EXTINF:0,IPTV : 241
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+ 
+#EXTINF:0,IPTV : 242
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_1500_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:0,IPTV : 251
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+ 
+#EXTINF:0,iptvtools_14
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+ 
+#EXTINF:0,iptvtools_167
+http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8
+ 
+
+ 
+#EXTINF:0,iptvtools_23
+http://3.sendvid.com/y00xutjl.mp4/
+ 
+#EXTINF:0,iptvtools_33
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_1_av-b.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:0,iptvtools_49
+http://unlimited7-cl.dps.live/cnn/cnn.smil/playlist.m3u8
+ 
+#EXTINF:0,iptvtools_60
+http://live.cgtn.com/cctv-e.m3u8
+ 
+#EXTINF:0,iptvtools_61
+http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+ 
+#EXTINF:0,iptvtools_8
+http://edge1.cl.grupoz.cl/teletrak//live/playlist.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1,Iron Man 3
+http://axstvdoble.mine.nu/peliculas%20agui/(I)/Iron%20Man%203%20(2013)/Iron%20Man%203%20(2013)-2%20(1).mkv
+ 
+#EXTINF:-1,JIGSAW VIII |
+https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
+ 
+#EXTINF:-1,Karate Kid (1984)
+https://onedrive.live.com/download.aspx?resid=8ADA9BC2B99CC76E%212273&authkey=!AMUr3u7txDzDZ3k
+ 
+#EXTINF:-1,Karate Kid 2 (1986)
+https://onedrive.live.com/download.aspx?resid=8ADA9BC2B99CC76E%212272&authkey=!AGpydCwZMt6EIWY
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0oRXnzz.png" group-title="USA",KBVR TV
+http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/96POFOB.png" group-title="USA",Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+ 
+#EXTINF:-1,Konvert SUBTITULADO |
+https://archive.org/download/KonSRREGIO/KonSRREGIO.mkv
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/COQM8bM.png" group-title="USA",Kool TV
+http://173.199.158.79:1935/roku/myStream/playlist.m3u8
+ 
+
+ 
+#EXTINF:-1,Kurt Cobain: Montage of Heck
+https://cdn.pavideohost.com/contents/s/f8/bf/ef/87176e28b664c08d498c486fda/720p/01316773599972.mp4
+ 
+#EXTINF:-1,L.O.R.D The Legend Of Ravaging Dynasties |
+https://archive.org/download/L.SRREGIOt/L.SRREGIOt.mkv
+ 
+#EXTINF:-1,La Era De Hielo 2
+http://ow.ly/iGm830f01eL?JoCaRoMovie
+ 
+#EXTINF:-1,La Era De Hielo 3 :el origen de los dinosaurios
+http://ow.ly/ZQPM30f01u4?JoCaRoMovie
+ 
+#EXTINF:-1,La Era De Hielo 4 :La Formacion De Los Continentes
+http://ow.ly/FsWl30f01Bd?JoCaRoMovie
+ 
+#EXTINF:-1,La Era De Hielo 5 : Choque De Mundos
+http://ow.ly/An2A30f1uum?JoCaRoMovie
+ 
+#EXTINF:-1,La Era De Hielo I
+http://ow.ly/i2Xo30f010l?JoCaRoMovie
+ 
+#EXTINF:-1,La Forma del Agua SUBTITULADO |
+https://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
+ 
+#EXTINF:-1,La Fuerza De La Ilusion |
+https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
+ 
+#EXTINF:-1,La Leyenda de la Nahuala |
+https://bit.ly/2wBzaYz
+ 
+#EXTINF:-1,LA MASACRE DE TEXAS (1974) |
+https://ia800602.us.archive.org/22/items/col.mas.tex/La%20Masacre%20de%20Texas%201%20%281974%29.mp4
+ 
+#EXTINF:-1,LA MASACRE DE TEXAS (2003) |
+https://ia600602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas52003RemakeParte1.mp4
+ 
+#EXTINF:-1,LA MASACRE DE TEXAS 2 (1986) |
+https://ia800602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas21986.mp4
+ 
+#EXTINF:-1,LA MASACRE DE TEXAS 3 (1990) |
+https://ia800602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas31990.mp4
+ 
+#EXTINF:-1,LA MASACRE DE TEXAS: EL INICIO (2006) |
+https://ia800602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas62006ElInicio-RemakeParte2.mp4
+ 
+#EXTINF:-1,LA MASACRE DE TEXAS: HERENCIA MALDITA (2013)  |
+https://ia800602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas720133d.mp4
+ 
+#EXTINF:-1,LA MASACRE DE TEXAS: LA NUEVA GENERACION (1994) |
+https://ia800602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas41994LaNuevaGeneracion.mp4
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xsxgroC.png" group-title="LATINO",La Mega Mundial
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+ 
+#EXTINF:-1,La Momia
+http://cecegeek@goo.gl/5wTGRK
+ 
+#EXTINF:-1,La Noche de la Bruja |
+https://archive.org/download/howibr.SRREGIO/h0us3.0f.th3.w1tch.SRREGIO.mkv
+ 
+#EXTINF:-1,LA SEXTA
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://img.actualidadmotor.com/wp-content/uploads/2011/03/LaSextaHD.jpeg",LA SEXTA ESPAÑA
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1,LA TORRE OSCURA
+http://bit.ly/2hPm8Mv?RTNews
+ 
+#EXTINF:-1,La Vida En Juego |
+https://archive.org/download/LaViEJuSRREGIO/LaViEJuSRREGIO.mkv
+ 
+#EXTINF:-1,LATINOS: TV UNO
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8?JoCaRoIPTV.m3u8
+ 
+#EXTINF:-1,Leatherface |
+https://archive.org/download/LeaSRREGIO/LeaSRREGIO.mkv
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.lebrija.tv/wp-content/uploads/2016/06/logo-web-2.png" group-title="SPAIN",Lebrija TV
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.levantetv.es/elementosWeb/version6_20100407/mediaweb/images/logoLevanteTv.jpg" group-title="SPAIN",Levante TV
+http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
+ 
+#EXTINF:-1 group-title="ENTRETENIMIENTO",LIFE TV
+http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8
+ 
+#EXTINF:-1,Locas Vacaciones Sobre Ruedas |
+https://archive.org/download/PacruedSRREGIO.NET/PacruedSRREGIO.NET.mkv
+ 
+#EXTINF:-1,LOGOS TV
+http://streamer1.streamhost.org:1935/salive/GMIalfah/livestream.m3u8
+ 
+#EXTINF:-1,Los Extranos |
+http://regiotv.xyz/losextranos
+ 
+#EXTINF:-1,Los Power Rangers
+http://bit.ly/2gbHp2p?JoCaRoMovie
+ 
+#EXTINF:-1,Lowriders (Subtitulada) |
+https://archive.org/download/LowSRREGIO/LowSRREGIO.mkv
+ 
+#EXTINF:-1,M2o Tv
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?
+ 
+#EXTINF:-1,M2OTV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:1,Madird tv
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?JoCaRoIPTV.m3u8
+ 
+#EXTINF:-1,Marjorie Prime
+https://ia801507.us.archive.org/22/items/major_201710/major.mp4
+ 
+#EXTINF:-1,Matrix / Matrix (1999)
+https://onedrive.live.com/download.aspx?resid=8ADA9BC2B99CC76E%212279&authkey=!AG_svwmwol3Mxkk
+ 
+#EXTINF:-1,Matrix 2: Recargado / Matrix Reloaded (2003)
+https://onedrive.live.com/download.aspx?resid=8ADA9BC2B99CC76E%212280&authkey=!AHljgWr49TvqO8U
+ 
+#EXTINF:-1,Matrix 3: Revolucion / Matrix Revolutions (2003)
+https://onedrive.live.com/download.aspx?resid=8ADA9BC2B99CC76E%212277&authkey=!AGfI4f8qZawuzlY&ithint=file%2cmkv
+ 
+#EXTINF:-1,MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8
+ 
+#EXTINF:-1,Mega Spain
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_4_av-p.m3u8
+ 
+#EXTINF:-1,Melanie Apocalipsis Zombie |
+https://archive.org/download/meapzoSRRREGIO/meapzoSRRREGIO.mkv
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.tvalacarta.info/canales/256x256/tvmelilla.png" group-title="SPAIN",Melilla TV
+http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/melillatv_source/chunks.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/t2lwdJX.jpg" group-title="CHRISTIANITY",Mesias TV (Mexico)
+http://server120416w1.a1network.net:1935/elmesias/elmesias.sdp/playlist.m3u8
+ 
+#EXTINF:-1,MÉXICO: AZTECA A +
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_1_av-p.m3u8?JoCaRoIPTV.m3u8
+ 
+#EXTINF:-1,MEXICO:Capital 21 Mexico City
+http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
+ 
+#EXTINF:-1,MEXICO:Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1,Mi Villano favorito 3
+http://cecegeek@goo.gl/MLYHNw
+ 
+#EXTINF:0,MIAMI TV
+http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8?iptvgratis?chile.m3u8
+ 
+http://181.51.57.21:1935/live/ranchenatotv/playlist.m3u8
+ 
+#EXTINF:0, tvg-logo="http://www.liveonlinetv247.info/images/miamitv.png" group-title="ESPAÑA",Miami Tv españa
+http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1,Minions
+http://axstvdoble.mine.nu/peliculas%20agui/(M)/Minions%202015%20Dual/Minions.2015.1080p.bdrip.dual.latino.ingl%c3%a9s-2%20(1).mkv
+ 
+#EXTINF:-1 tvg-logo="http://www.mlb.com/assets/images/9/1/2/196306912/cuts/mlbn_logo_400x300_ljtuhlxz_cuqseo4b.png" group-title="DEPORTES",MLB EN VIVO
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8?JoCaRoIPTV.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://mlblogsjoefrisaro.files.wordpress.com/2010/03/mlbnetwork.png" group-title="DEPORTES 2",MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8
+ 
+#EXTINF:-1,MLB TV
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20170704_1499230681478/2400K/2400_slide.m3u8
+ 
+#EXTINF:-1,MODA - CULTURA MUNDO CRUEL IPTV
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&amp;rebase=on
+ 
+#EXTINF:-1,Mom & Dad |
+http://regiotv.xyz/momanddadLAT
+ 
+#EXTINF:-1,Mom & Dad SUB |
+http://regiotv.xyz/momanddad
+ 
+#EXTINF:-1,Most Video TV HD MUNDO CRUEL IPTV
+http://w4.mostvideo.tv/tv/ch1.m3u8
+ 
+#EXTINF:-1,MostvideoTV MUNDO CRUEL IPTV
+http://31.43.33.1:8100/ch155/index.m3u8
+ 
+#EXTINF:-1,MOVISTAR ATRESERIES
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_1_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1,MOVISTAR MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_4_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1,MOVISTAR NOVA
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_1_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SvQJJD4.png" group-title="USA",MSNBC (Opt-2)
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1896_av-b.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SvQJJD4.png" group-title="USA",MSNBC HD
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+ 
+#EXTINF:-1,Mudbound |
+http://srregio.xyz/mudbound
+ 
+#EXTINF:-1,Mulan |
+https://movies1.ottmex.com/disk1/drama/Mulan.2009.mp4
+ 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png" group-title="MEXICO" ,Multimedios
+http://mdstrm.com/live-stream-playlist/57b4db886338448314449cfa.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1,MULTIMEDIOS
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?CeceGeek.m3u8
+ 
+#EXTINF:-1,MULTIMEDIOS MONTERREY
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/ajBGBm5.png" group-title="MEXICO",Multimedios Monterrey (Opt-1)
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
+ 
+#EXTINF:0,Music Top (ARG)
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+ 
+#EXTINF:-1,Music Videos 18
+http://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+ 
+#EXTINF:-1,MUSICA:California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+ 
+#EXTINF:-1,MUSICA:CHAU Tv
+http://video.chaula.tv/hls/live/high/playlist_high.m3u8
+ 
+#EXTINF:-1,Musica:Cool 103.7
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
+ 
+#EXTINF:-1,Musica:Dream TV
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+ 
+#EXTINF:-1,MUSICA:Futuro 88.9 (Chile)
+http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
+ 
+#EXTINF:-1,MUSICA:Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1,MUSICA:Music Top (Argentina)
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+ 
+#EXTINF:-1,MUSICA:Pandero Music
+http://evo.eltelon.com:1935/panderotop/smil:panderotop.smil/chunklist_wZoiper Click2Dial693853185ES_b1500000_sleng.m3u8
+ 
+#EXTINF:-1,MUSICA:PortalFoxMix Tv
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1,MUSICA:Radio 105 Tv
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+ 
+#EXTINF:-1,MUSICA:Radio Italia Vision
+http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
+ 
+#EXTINF:-1,Musica:RetroTV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+ 
+#EXTINF:-1,Musica:SON POPULAR
+http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/popular.m3u8
+ 
+#EXTINF:-1,Musica:Teleritmo
+http://ddct8f8qjbttn.cloudfront.net/out/v1/808583a162954edd9c603a0d74e4fe82/index.m3u8
+ 
+#EXTINF:-1,MUSICA:Teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1,Musica:Virgin Music
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
+ 
+#EXTINF:-1,MUSICA:Virgin Radio
+http://fms.105.net:1935/live/virgin1/.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1,MUSICA:Virgin TV Live
+http://tv.105.net:1935/live/virgin1/chunklist_wZoiper Click2Dial620779835ES.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1,MUSICA:VTV HD
+http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1,My Little Pony La Pelicula |
+https://archive.org/download/mlplpSRREGIO/mlplpSRREGIO.mkv
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/8yYq2Yd.jpg" group-title="DOMINICAN REP",Naranja TV
+http://ciez45.live.cloud.influxis.com/ciez45/_definst_/NaranjaTV/playlist.m3u8
+ 
+#EXTINF:0,Nat Geo Wild
+http://jadegames.ml/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sergioalvarezweb.hol.es/img/navarratv.png" group-title="SPAIN",Navarra TV (Opt-2)
+http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
+ 
+#EXTINF:0,NBA_TV
+http://jadegames.ml/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.destinationnetwork.com/images/channel_logos/notv_logo.png" group-title="USA",New Orleans TV
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+ 
+
+ 
+#EXTINF:-1,NinjaGO |
+https://archive.org/download/pickidj74_gmail_Gole/gole.mp4
+ 
+#EXTINF:-1,NinjaGo La Pelicula
+http://bit.ly/2in1N53?JoCaRoMovie
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BITLZHE.png" group-title="CHILE",Niu TV
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
+ 
+#EXTINF:-1,Nosotros Los Nobles |
+https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
+ 
+#EXTINF:-1,Noticias:Aire Santa Fe Argentina
+http://184.154.28.210:1935/airevideo/airevideo/playlist.m3u8
+ 
+#EXTINF:-1,Noticias:CNN
+http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
+ 
+#EXTINF:-1,Noticias:Milenio TV HD
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+ 
+#EXTINF:1,Nova
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&rebase=oN
+ 
+#EXTINF:-1,NOVA
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://16375562-731807891195524306.preview.editmysite.com/uploads/1/6/3/7/16375562/ic-perfect-player-banner_orig.png",NOVA HD
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_1_av-b.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://chileiptv.cl/img/logos/logo_15074361401.jpg" group-title="CHILE",Nuble TV
+https://593b04c4c5670.streamlock.net:443/tvdaniel/tvdaniel/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://estudielabiblia.com/wp-content/uploads/2013/10/tv500x2501-500x250.jpg",Nueva Vida
+http://stream.novotempo.com:1935/tv/tvnuevotiempo.stream/live.m3u8
+ 
+#EXTINF:-1, tvg-logo="https://cdn.firstonetv.eu/images/logos/mx/OCHO.png" group-title="MEXICO" ,Ocho Tv
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/index_2200_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="USA",Olympic Channel
+https://live.olympicchannel.com/ocs/channel01b/master.m3u8
+ 
+
+ 
+#EXTINF:0,ONCE NOTICIAS MEXICO
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w2131787481_b1300000_slesp.m3u8
+ 
+#EXTINF:-1,Operacion Red Sparrow |
+http://regiotv.xyz/regioflix/redsparrow
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Z918C34.png" group-title="USA",Orange TV
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+ 
+#EXTINF:-1,ORBIT TV
+http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.osirisfm.com/Osiris%20fm.jpg" group-title="RADIOS",OSIRIS 90.5 FM
+http://195.154.182.222:2011/;
+ 
+
+#EXTINF:-1,PANAMA:Eco TV
+http://cdnlive.medcom.com.pa/medcom-livestream/eco-live/eco-live/streamout-480p/chunks.m3u8
+ 
+#EXTINF:-1,PANAMA:NexTV
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+ 
+#EXTINF:-1,PANAMA:RPC Radio
+http://cdnlive.medcom.com.pa/rpcradio/source/chunks.m3u8
+ 
+#EXTINF:-1,PANAMA:SerTV
+http://162.213.123.181:1935/sertv/live/playlist.m3u8
+ 
+#EXTINF:-1,PANAMA:Telemetro Radio
+http://cdnlive.medcom.com.pa/tmradio/source/chunks.m3u8
+ 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",Panamericana TV
+http://z3.reporteperuano.com:1935/liverp3/zrhn/master.m3u8?johantv.m3u8
+ 
+#EXTINF:-1,Papa Por Sorpresa |
+http://srregio.net/papaporsorpresa
+ 
+#EXTINF:-1,PARAGUAY:Telefuturo
+http://201.217.3.212/telefuturoext/telefuturoext/playlist.m3u8
+ 
+#EXTINF:-1,PARAGUAY:Telefuturo
+http://xtelefuturohdx.api.channel.livestream.com/3.0/playlist.m3u8?teleregiogratis?chile.m3u8
+ 
+#EXTINF:-1,PELICULA - ATOMICA
+https://archive.org/download/AtoSRRegio/AtoSRRegio.mkv
+ 
+#EXTINF:-1,PELICULA - LIFE VIDA INTELIGENTE (2017)
+https://ia801507.us.archive.org/20/items/Life2017_20017081/Life%202017.mp4?Pelixmax1.mp4
+ 
+#EXTINF:-1,PELICULA - MARJORIE PRIME
+http://bit.ly/2xYu9cY
+ 
+#EXTINF:-1,PELICULA - VALERIAN Y LA CIUDAD DE MIL PLANETAS
+https://archive.org/download/ValeSRREGIO/ValeSRREGIO.mkv
+ 
+#EXTINF:-1,PELICULA AMYTIVILLE EL DESPERAR
+https://archive.org/download/4w4k3n1ng.SRREGIO/4w4k3n1ng.SRREGIO.mkv
+ 
+#EXTINF:-1,PERU:Capital Tv
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live.m3u8?teleregiogratis?chile.m3u8
+ 
+#EXTINF:-1,PERU:CTC TV Cusco
+http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
+ 
+#EXTINF:-1,PERU:Digital TV Peru
+http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/master.m3u8
+ 
+#EXTINF:-1,PERU:Monterrico TV
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+ 
+#EXTINF:-1,PERU:RBC TV
+http://184.154.28.210:1935/rbc-tv/rbc-tv/playlist.m3u8
+ 
+#EXTINF:-1,PERU:Sol TV
+http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
+ 
+#EXTINF:-1,Pesadilla Siniestra |
+http://regiotv.xyz/pesadillasiniestra
+ 
+#EXTINF:-1,Pinocchio (1940)
+https://onedrive.live.com/download.aspx?resid=83233C94E1E9D14B!328&authkey=!AMCYJFqjDk7xVvQ
+ 
+#EXTINF:-1,Piratas Del Caribe 2: El Cofre Del Hombre Muerto (2006)
+https://onedrive.live.com/download.aspx?resid=8ADA9BC2B99CC76E%212441&authkey=!AK-4ATQNiD_p7ek
+ 
+#EXTINF:-1,Piratas Del Caribe 3: En El Fin Del Mundo (2007)
+https://onedrive.live.com/download.aspx?resid=8ADA9BC2B99CC76E%212442&authkey=!AKlfOZE53Q9nEGk
+ 
+#EXTINF:-1,Piratas Del Caribe 4: En Mareas Misteriosas (2011)
+https://onedrive.live.com/download.aspx?resid=8ADA9BC2B99CC76E%212439&authkey=!AKIsnU00lnio6JI
+ 
+#EXTINF:-1,Piratas Del Caribe: La Maldicion De La Perla Negra (2003)
+https://onedrive.live.com/download.aspx?resid=8ADA9BC2B99CC76E%212440&authkey=!AOgoiJCuFOKwpq0
+ 
+#EXTINF:-1,Pitufos 3: La Aldea Perdida
+https://ia801508.us.archive.org/9/items/27062017AQCJFJKGFKG86903485I5/27062017_AQC.mkv
+ 
+#EXTINF:-1,Pokemon Yo Te Elijo |
+https://archive.org/download/PoYoTESRREGIO/PoYoTESRREGIO.mkv
+ 
+#EXTINF:-1,Por que el |
+https://archive.org/download/XQESRREGIO/XQESRREGIO.mkv
+ 
+#EXTINF:0,POWER HD
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/Promar_tv_Venezuela.jpg" group-title="VENEZUELA",Promar TV (Opt-1)
+http://edge.wms28.lorini.net/promar/promar/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1iWzKQH.png" group-title="MEXICO",Puebla TV
+http://189.203.247.136/live/pueblatv/playlist.m3u8
+ 
+#EXTINF:-1,PUERTO RICO:WORO-TV Teleoro Canal 13
+http://live247tv.com:1935/worodtcanal13/worodtcanal13/playlist.m3u8
+ 
+#EXTINF:-1,PUERTO RICO:WORO-TV Teleoro Canal 13*
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPR0008&mode=12
+ 
+#EXTINF:-1,PYC TELEVISIÓN
+http://video.usatelk.com:1935/canal15/canal15/playlist.m3u8
+ 
+#EXTINF:-1,Que Culpa Tiene el Nino |
+https://bit.ly/2wBG4x8
+ 
+#EXTINF:-1,Quija |
+https://archive.org/download/quiSRREGIO/quiSRREGIO.mkv
+ 
+#EXTINF:-1,Quisiera Ser Grande / Big (1988)
+https://onedrive.live.com/download.aspx?resid=8ADA9BC2B99CC76E%212289&authkey=!AP6aifG1M3dbnso
+ 
+#EXTINF:-1,RADIOTV:Radio Zero Tv
+http://unlimited6-cl.digitalproserver.com/zerotv/zerotv.smil/playlist.m3u8
+ 
+#EXTINF:-1,Ready TV Canal 6
+http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8
+ 
+
+ 
+
+ 
+#EXTINF:-1, tvg-logo="http://1.bp.blogspot.com/-O1lvn7ixI3I/VezDtfKka6I/AAAAAAAADGM/KeEL0qq9Ng8/s1600/advenir.JPG" group-title="RELIGION",Red Advenir
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1,Redada Asesina |
+https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
+ 
+#EXTINF:-1, tvg-logo="http://www.tvreino.com/uploads/4/0/8/2/40820027/____3236261_orig.png" group-title="RELIGION",Reino Tv
+http://streaming.omeganet.org:1935/reinotv/envivo/chunklist_w29851567.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1,RETRO MUSIC TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1652320907.m3u8
+ 
+#EXTINF:-1,Retro Tv
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_wZoiper Click2Dial627639048ES.m3u8?
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.wp.com/www.riberatelevisio.com/wp-content/uploads/2015/03/LOGO-RIBERA-TV-1.png" group-title="SPAIN",Ribera TV
+http://188.165.135.22/ribera/livestream/.m3u8
+ 
+#EXTINF:-1,ROBOCOP
+http://media-es-am.crackle.com/1/t/n0/wohyk_480p_1mbps.mp4?disco
+ 
+#EXTINF:0,RPP NOTICIAS PERÚ
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPWC/_definst_/live.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1,RT
+https://secure-streams.akamaized.net/rt-esp/index.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2010/04/rtp-asturias.jpg" group-title="SPAIN",RTPA
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+ 
+#EXTINF:-1,  tvg-logo="https://i.imgur.com/H1AFRJh.png" group-title="MEXICO",RTQ Queretaro
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+ 
+#EXTINF:-1,Rtv ce
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+ 
+#EXTINF:-1,SACRIFICIO
+http://discontrol@media-es-am.crackle.com/1/s/f0/9ikyk_480p_1mbps.mp4?disco
+ 
+#EXTINF:-1,Samson |
+http://srregio.xyz/regioflix/samson
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-J3V2v8xCup4/AAAAAAAAAAI/AAAAAAAAAAA/B8BLxY30p98/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="SPAIN",San Roque TV
+http://188.165.135.22/sanroque/mystream/chunklist_w1703138822.m3u8
+ 
+#EXTINF:-1,Sand Castle
+http://cecegeek@goo.gl/FDyHpL
+ 
+#EXTINF:-1,Sandy Wexler
+http://cecegeek@goo.gl/kyH56Z
+ 
+#EXTINF:-1,Sangre por Sangre |
+https://archive.org/download/54n6r3.SrRegio/Sangre.por.Sangre.SrRegio.mp4
+ 
+#EXTINF:-1,SAW VIII SUBTITULADO |
+https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
+ 
+#EXTINF:-1,ser tv
+http://162.213.123.181:1935/sertv/live/chunklist_w548439273.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.sevillafc.es/sites/default/files/escudos/t179%402x_0.png",SEVILLA FC HD
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/SFC.jpg" ,SEVILLA FC TV
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1,Sky
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8
+ 
+#EXTINF:-1, tvg-logo="http://www.anajnu.cl/2015/articulos/307/halcones-con-rama-2.png" group-title="RELIGION",Sobrenatural Tv
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.unored.tv/wp-content/uploads/2017/11/Sobrenatural-TV-Logo.jpg",Sobrenatural TV
+http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/chunklist_w360491611.m3u8
+ 
+#EXTINF:-1,SONY TEN1 SD
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225931/01.m3u8
+ 
+#EXTINF:-1,SONY TEN2 SD
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+ 
+#EXTINF:-1,SONY TEN3 HD
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226330/04.m3u8
+ 
+#EXTINF:-1,SONY TEN3 SD
+http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225933/01.m3u8
+ 
+#EXTINF:0,Space
+http://jadegames.ml/Content/HLS/Live/Channel(SPACE)/Stream(06)/index.m3u8
+ 
+#EXTINF:-1,SPACE HD MUNDO CRUEL IPTV
+http://jadegames.ml/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
+ 
+
+ 
+#EXTINF:-1,Star Wars 6 El Imperio Contra Ataca
+https://onedrive.live.com/download?cid=5B9D36FDECEFB0A7&resid=5B9D36FDECEFB0A7%2113155&authkey=ACJ9jHTXH7Pnz84
+ 
+#EXTINF:-1,Star Wars 8 El Despertar De La Fuerza
+https://onedrive.live.com/download?cid=5B9D36FDECEFB0A7&resid=5B9D36FDECEFB0A7%2113237&authkey=AKVC6-93sSXMs8U
+ 
+#EXTINF:0,T 13 MOVIL
+http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13lq
+ 
+#EXTINF:0,T HD
+http://wowza.telpin.com.ar:1935/telpintv/ttv.stream_720p/playlist.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/aslyRHq.png" group-title="CHILE",T13
+http://cdn.ztreaming.com/t13vivo3/desktop.m3u8
+ 
+#EXTINF:0,T13 RADIO
+http://live.t13.cdnz.cl/t13radio/t13radio-632.m3u8
+ 
+#EXTINF:-1,Tadeo Jones 2: El secreto del Rey Midas
+https://ia601509.us.archive.org/11/items/tadeo_20180109/tadeo.mp4?CeceGeek.mp4
+ 
+#EXTINF:-1,Talento De Barrio |
+http://regiotv.xyz/talentodebarrio
+ 
+#EXTINF:-1,Tarzan (tarzan) (2013)
+https://onedrive.live.com/download.aspx?resid=83233C94E1E9D14B!334&authkey=!AH2r-0cLqrTJFSg
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9CR5FLb.png" group-title="ARGENTINA",TDC Online Firmat
+http://painel.serveron.com.br:1935/8166/8166/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.tvalacarta.info/canales/256x256/teftv.png" group-title="SPAIN",TEF TV
+http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8
+ 
+#EXTINF:-1,Tele Adonai
+http://teleadonai.streamguys1.com/live/streamName/chunklist_w1115132133.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.karpinabentura.com/images/Karpin/imagenes_web_karpin/medios_amigos/logo_tbilbao.jpg" group-title="SPAIN",TeleBilbao
+http://cls.todostreaming.eu/telebilbao/restricted/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.teleelx.es/eniusimg/enius2/2016/01/adj_569e704973b6d.jpg" group-title="SPAIN",TeleElx
+http://teledifusion.tv:1935/teleelx/teleelxlive/playlist.m3u8
+ 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",Telefuturo
+http://xtelefuturohdx.api.channel.livestream.com/3.0/playlist.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/aEkuUbD.png" group-title="RUSSIA 2018",Telefuturo
+http://201.217.3.212/telefuturoext/telefuturoext/playlist.m3u8?johantv.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Teleislas.png" group-title="COLOMBIA",Teleislas
+http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3orwGcy.png" group-title="MEXICO",Telemar Campeche
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+ 
+#EXTINF:-1,TELEMAR CAMPECHE
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
+ 
+#EXTINF:-1,TELEMICRO
+http://2.bp.blogspot.com/-f7WYgLyTPZo/VZQWilXAw9I/AAAAAAAALv0/zKc8sNAkREw/s1600/telemicro%2Bviva.png",TELEMICRO
+ 
+#EXTINF:-1,TELEMILENIO SANTIAGO CHILE
+http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
+ 
+#EXTINF:-1,TELENORD MUNDO CRUEL IPTV
+http://www.coninfo.net:1935/previsoratv/live/chunklist_w133654096.m3u8
+ 
+#EXTINF:-1,TELEPIN HD
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8?tecnotv.info?iptv.m3u8
+ 
+#EXTINF:0,TELERISMO
+http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RWsmqRF.png" group-title="MEXICO",Teleritmo
+http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dc126338448314449d0c/publish/media_1000.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fteleritmo&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486351096793
+ 
+#EXTINF:-1,TELERITMO
+http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8?
+ 
+#EXTINF:-1,TELERITMO
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?tecnotv.info?.m3u
+ 
+#EXTINF:-1,TeleSafor
+http://video.telesafor.com/hls/video_low.m3u8
+ 
+#EXTINF:-1,Telestar 1
+http://193.34.109.10:8090
+ 
+#EXTINF:-1,Telesur
+http://cdna.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
+ 
+#EXTINF:-1,TELESUR
+http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
+ 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://canal7televalencia.es/wp-content/uploads/2017/03/Logo_A_vertical-242x300.png" group-title="SPAIN",TeleValencia
+http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
+ 
+#EXTINF:-1,TELEVER
+http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/7_de_guatemala_televisiete-mediano.png" group-title="GUATEMALA",Televisiete
+http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_7.smil/chunklist_b1155072.m3u8
+ 
+#EXTINF:-1,Terminator 2 |
+https://movies1.ottmex.com/vod/peliculas/sci-fi/Terminator.2.mkv
+ 
+#EXTINF:-1,Terminus |
+https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+ 
+#EXTINF:-1,Terror en la Oscuridad CAST |
+http://srregio.xyz/insidecast
+ 
+#EXTINF:-1,Teve2
+http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
+ 
+#EXTINF:-1,TG4
+http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+ 
+#EXTINF:-1,TGRT Belgesel
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
+ 
+#EXTINF:-1,The Blaze
+http://theblaze.global.ssl.fastly.net/live/blaze-dvr/master.m3u8
+ 
+#EXTINF:-1,The Cloverfield Paradox |
+https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
+ 
+#EXTINF:-1,The Country Network
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+ 
+#EXTINF:-1,The Cured |
+http://srregio.xyz/thecure
+ 
+#EXTINF:-1,The Film Zone
+http://freeiptv.apisecurers.com/canal_79_thefilmzone.m3u8
+ 
+#EXTINF:-1,The Travel Channel MUNDO CRUEL IPTV
+http://pili-live-hls.livelvy.sobeycache.com/livelvy/lvy1.m3u8
+ 
+#EXTINF:-1,The Voice MUNDO CRUEL IPTV
+http://stream.1music.hu/stream/1music.m3u8
+ 
+#EXTINF:-1,The Wilde Wedding (Entre dos maridos)
+http://s2.biter.tv/file/3a4bb1499df72d9705cf51466e9ea4d8/177926f4d565063267cdZoiper Click2Dial965905849ESe6f11765696b3cbf259d071410c06667957ed6c9fd597e50f40936aafaa4733184890c21063212131ca18a96628f030c06d/1522661671/15/5a84646c8c9f9.mp4
+ 
+#EXTINF:-1,Thor (thor) 2011
+https://TvOneConnectionServer@onedrive.live.com/download.aspx?resid=8ADA9BC2B99CC76E!117&authkey=!AL40VNWrGthDDvo
+ 
+#EXTINF:-1,Throwback
+http://i.imgur.com/BTiGp2B.png?tecnotv",Throwback
+ 
+#EXTINF:-1,Tierra De Osos (brother Bear) (2003)
+https://onedrive.live.com/download.aspx?resid=83233C94E1E9D14B!337&authkey=!AOErTHSLRKzyvE4
+ 
+#EXTINF:-1,Tierra De Osos 2 (brother Bear 2) (2006)
+https://onedrive.live.com/download.aspx?resid=83233C94E1E9D14B!336&authkey=!AH3jEU4kLF_-Acc
+ 
+#EXTINF:-1,Tirol TV
+http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
+ 
+#EXTINF:-1,Tisza TV
+http://www.tiszatv.hu:443/tiszatv.f4v
+ 
+#EXTINF:-1,Tivikom Ulan-Udje
+http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
+ 
+#EXTINF:-1,TJK TV
+http://tjktv.ercdn.net/tjktv_576p.m3u8
+ 
+#EXTINF:-1,TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
+ 
+#EXTINF:0,TLX HD
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/tn23-mediano.png" group-title="GUATEMALA",TN23
+http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_23.smil/chunklist_b1155072.m3u8
+ 
+#EXTINF:-1,Today
+http://i.imgur.com/BTiGp2B.png?tecnotv",Today
+ 
+#EXTINF:-1,Toddler
+http://i.imgur.com/BTiGp2B.png?tecnotv",Toddler
+ 
+#EXTINF:-1,Todo El Dinero Del Mundo |
+http://regiotv.xyz/todoeldinerodelmundo
+ 
+#EXTINF:-1,Todo Poderoso |
+https://bit.ly/2GajoTS
+ 
+#EXTINF:-1,Todo Todo
+http://cecegeek@goo.gl/mnzQRk
+ 
+#EXTINF:-1,Todo todo 2017
+https://ia801503.us.archive.org/9/items/NadaNadaIverso/Nada%20Nada%20Iverso.mp4?Pelixmax1.mp4
+ 
+#EXTINF:-1,Tom y Jerry
+http://193.169.52.206/a-tom-jerry/1-8.mp4
+ 
+#EXTINF:-1,Tom y Jerry
+http://193.169.52.206/a-tom-jerry/1-26.mp4
+ 
+#EXTINF:-1,Tom y Jerry
+http://193.169.52.206/a-tom-jerry/1-28.mp4
+ 
+#EXTINF:-1,Tom y Jerry
+http://193.169.52.206/a-tom-jerry/1-18.mp4
+ 
+#EXTINF:-1,Tom y Jerry
+http://193.169.52.206/a-tom-jerry/1-14.mp4
+ 
+#EXTINF:-1,Tom y Jerry
+http://193.169.52.206/a-tom-jerry/1-37.mp4
+ 
+#EXTINF:-1,Tom y Jerry
+http://193.169.52.206/a-tom-jerry/1-2.mp4
+ 
+#EXTINF:-1,Tom y Jerry
+http://193.169.52.206/a-tom-jerry/1-33.mp4
+ 
+#EXTINF:-1,Tom y Jerry
+http://193.169.52.206/a-tom-jerry/1-31.mp4
+ 
+#EXTINF:-1,Tom y Jerry
+http://193.169.52.206/a-tom-jerry/1-20.mp4
+ 
+#EXTINF:-1,Tom y Jerry
+http://193.169.52.206/a-tom-jerry/1-22.mp4
+ 
+#EXTINF:-1,Tom y Jerry
+http://193.169.52.206/a-tom-jerry/1-42.mp4
+ 
+#EXTINF:-1,Tom y Jerry
+http://193.169.52.206/a-tom-jerry/1-27.mp4
+ 
+#EXTINF:-1,Tom y Jerry
+http://193.169.52.206/a-tom-jerry/1-19.mp4
+ 
+#EXTINF:-1,Tom y Jerry
+http://193.169.52.206/a-tom-jerry/1-25.mp4
+ 
+#EXTINF:-1,Tom y Jerry
+http://193.169.52.206/a-tom-jerry/1-29.mp4
+ 
+#EXTINF:-1,Tom y Jerry
+http://193.169.52.206/a-tom-jerry/1-34.mp4
+ 
+#EXTINF:-1,Tom y Jerry
+http://193.169.52.206/a-tom-jerry/1-3.mp4
+ 
+#EXTINF:-1,Tom y Jerry
+http://193.169.52.206/a-tom-jerry/1-41.mp4
+ 
+#EXTINF:-1,Tom y Jerry
+http://193.169.52.206/a-tom-jerry/1-9.mp4
+ 
+#EXTINF:-1,Tom y Jerry
+http://193.169.52.206/a-tom-jerry/1-6.mp4
+ 
+#EXTINF:-1,Tom y Jerry
+http://193.169.52.206/a-tom-jerry/1-43.mp4
+ 
+#EXTINF:-1,Tom y Jerry
+http://193.169.52.206/a-tom-jerry/1-12.mp4
+ 
+#EXTINF:-1,Tom y Jerry
+http://193.169.52.206/a-tom-jerry/1-21.mp4
+ 
+#EXTINF:-1,Tom y Jerry
+http://193.169.52.206/a-tom-jerry/1-13.mp4
+ 
+#EXTINF:-1,Tom y Jerry
+http://193.169.52.206/a-tom-jerry/1-32.mp4
+ 
+#EXTINF:-1,Tom y Jerry
+http://193.169.52.206/a-tom-jerry/1-11.mp4
+ 
+#EXTINF:-1,Tom y Jerry
+http://193.169.52.206/a-tom-jerry/1-10.mp4
+ 
+#EXTINF:-1,Tom y Jerry
+http://193.169.52.206/a-tom-jerry/1-35.mp4
+ 
+#EXTINF:-1,Tom y Jerry
+http://193.169.52.206/a-tom-jerry/1-17.mp4
+ 
+#EXTINF:-1,Tom y Jerry
+http://193.169.52.206/a-tom-jerry/1-7.mp4
+ 
+#EXTINF:-1,Tom y Jerry
+http://193.169.52.206/a-tom-jerry/1-5.mp4
+ 
+#EXTINF:-1,Tom y Jerry
+http://193.169.52.206/a-tom-jerry/1-40.mp4
+ 
+#EXTINF:-1,Tom y Jerry
+http://193.169.52.206/a-tom-jerry/1-4.mp4
+ 
+#EXTINF:-1,Tom y Jerry
+http://193.169.52.206/a-tom-jerry/1-16.mp4
+ 
+#EXTINF:-1,Tomb Raider 2018 SUB |
+http://srregio.net/tombraidersub
+ 
+#EXTINF:-1,TopShop
+http://tv-topshop.netrack.ru/hls/topshop.m3u8
+ 
+#EXTINF:-1,Tr3ce
+http://vignette4.wikia.nocookie.net/logopedia/images/0/03/Canal_Tr3ce_HD.png/revision/latest?cb=20151214194315,Tr3ce
+ 
+#EXTINF:-1 tvg-logo="http://cinestrenostv.tv/img/13tv.png" group-title="España",TRECE .
+http://streaming-fr02.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/playlist.m3u8
+ 
+#EXTINF:-1,Trentino TV (Opt-1)
+http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8
+ 
+#EXTINF:-1,TRISTE SAN VALENTIN
+http://discontrol@media-es-am.crackle.com/1/r/v0/cpoyk_480p_1mbps.mp4?disco
+ 
+#EXTINF:-1,TRO Soyuz
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+ 
+#EXTINF:-1,Tropicales
+http://i.imgur.com/BTiGp2B.png?tecnotv",Tropicales
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TSi_Honduras.png" group-title="HONDURAS",TSi
+https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
+ 
+#EXTINF:-1,Tuff TV
+http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/playlist.m3u8
+ 
+#EXTINF:-1,TV COSMOS PERU
+http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/chunklist_wZoiper Click2Dial911600877ES.m3u8
+ 
+#EXTINF:-1,Tv Cret
+http://radiocret.net:1935/live/tvcret.sdp/playlist.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://radiocadenacret.com/wp-content/uploads/LOGO-CRET-NEW-2.png" group-title="CHRISTIANITY",TV CRET (El Salvador)
+http://radiocret.net:1935/live/tvcret.sdp/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KJcg1FB.jpg" group-title="MEXICO",TV Cuatro 4.1 Guanajuato
+https://5a3911d64928b.streamlock.net/tv4/videotv4/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FQxBTB9.png" group-title="MEXICO",TV Cuatro 4.2 Guanajuato
+https://5a3911d64928b.streamlock.net/tv42/videotv42/playlist.m3u8
+ 
+#EXTINF:0,TV ES
+http://198.24.135.42/canal10/canal10/chunklist_w1902896771.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VICta82.png" group-title="LATINO",TV Marti
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+ 
+#EXTINF:-1,TV Más
+http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?tecnotv.info?iptv.m3u8?hermoso.m3u8?tecnotv.info?iptv.m3u8
+ 
+#EXTINF:-1,TV Más
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u
+ 
+#EXTINF:0,TV MÁS
+http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1,TV MEXIQUENSE 34
+http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/chunklist.m3u8
+ 
+#EXTINF:-1,TV MEXIQUENSE 34
+http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8?
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="PERU",TV Noticias 7.3
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
+ 
+#EXTINF:-1,TV Touring Schweinfurt MUNDO CRUEL IPTV
+http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/playlist.m3u8
+ 
+#EXTINF:-1,TV UNO
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8?tecnotv.info?iptv.m3u8
+ 
+#EXTINF:-1,TV UNO
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8?www.tecnotv.info
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.gelabert.net/wp-content/uploads/2016/06/LOGO-TV3-OFICIAL-FONS-NEGRE.jpg" group-title="SPAIN",TV3 (Opt-2)
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh5.googleusercontent.com/-9PLgxPlDPwI/UJuu6yeS7WI/AAAAAAAAAXI/EMp3l9mR8LQ/s800/Teve4-LaVall_logo.jpg" group-title="SPAIN",TV4 La Vall
+http://188.165.135.22/15o8376r/mystream/chunklist_wZoiper Click2Dial511176900ES.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AfSXooZ.png" group-title="MEXICO",TvAcapulco
+http://stream.duplika.com:1935/tvacapulco/tvacapulco/playlist.m3u8
+ 
+#EXTINF:-1,tvg-logo="52r9Jrf.jpg" group-title="Canales Italianos" Sky TG24 | SD
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
+ 
+#EXTINF:-1,tvg-logo="SeVaece.jpg" group-title="Canales Italianos" RAI News 24 | SD
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0HnNJKm.png" group-title="MEXICO",TVMAS Veracruz
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/_PA68cewAaDE/SrL9JZsSKOI/AAAAAAAAAO4/y7ALTlrRpoE/s320/TVO.jpg" group-title="EL SALVADOR",TVO Canal 23
+http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.uestv.cl/sites/all/themes/uestv/images/logo.png",UESTV
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/unesBrV.png" group-title="MEXICO",Ultra TV Aguascalientes
+https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
+ 
+#EXTINF:-1,Un Don Excepcional Gifted
+http://cecegeek@goo.gl/qFnNHF
+ 
+#EXTINF:-1,UN PERDEDOR SIN SUERTE
+http://media-es-am.crackle.com/1/b/_0/qkpyk_480p_1mbps.mp4?disco
+ 
+#EXTINF:-1,UN VUELO DE LOCURA
+http://discontrol@media-es-am.crackle.com/1/q/f0/ylkyk_480p_1mbps.mp4?disco
+ 
+#EXTINF:-1,Una Loca Pelicula de The Walking Dead |
+https://archive.org/download/DocumentalZombieSRREGIO/The%20Walking%20DeadSRREGIO.mkv
+ 
+#EXTINF:-1,uncion 24
+http://Zoiper Click2Dial68.235.37.11ES:1935/uncion24/Uncion24/chunklist_w1586610237.m3u8
+ 
+
+ 
+
+
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Uno_tv.jpg/245px-Uno_tv.jpg" group-title="MEXICO",Uno TV (VOD)
+http://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
+ 
+#EXTINF:-1,URUGUAY:Canal U
+http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8?teleregiogratis?chile.m3u8
+ 
+#EXTINF:-1,Varias Lat:Alien Covenant
+http://ow.ly/SgXZ30eXN93
+ 
+#EXTINF:-1,Varias Lat:Colossal
+http://ow.ly/FXZ930eWtrs
+ 
+#EXTINF:-1,Varias Lat:Huye
+http://ow.ly/3a9530eXgFk
+ 
+#EXTINF:-1,Varias Lat:La Momia 2017
+http://ow.ly/rSYw30eS9p5
+ 
+#EXTINF:-1,Varias Lat:Life
+https://ia800801.us.archive.org/1/items/Life2017_20017081/Life%202017.mp4
+ 
+#EXTINF:-1,Varias Lat:The Big Sick
+https://ia601502.us.archive.org/33/items/chayoterodance_Track066/chayoterodance_Track066.mp4
+ 
+#EXTINF:-1,Varias Lat:Todo Todo
+http://ow.ly/tlKB30eS9pK
+ 
+#EXTINF:-1,Varias Lat:Un Don Excepcional
+http://ow.ly/TIKq30eS9jx
+ 
+#EXTINF:-1,Varias Lat:Un Saco De Canicas
+http://ow.ly/v7hc30eVA0P
+ 
+#EXTINF:-1,Varias Lat:Viaje Salvaje
+https://ia801508.us.archive.org/34/items/2132154654SRREGIO.NET/21321546548978456132.mkv
+ 
+#EXTINF:-1,Varias Lat:Viaje Salvaje
+https://archive.org/download/2132154654SRREGIO.NET/21321546548978456132.mp4
+ 
+#EXTINF:-1,Varias Lat:Volver al Futuro III
+https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+ 
+#EXTINF:-1,Varias Lat:Yo antes de Ti
+http://ow.ly/1Ud130eSgQq
+ 
+#EXTINF:-1,VENEZUELA:Promar TV
+http://vpn58.hdtv.lorini.net/promar/promar/playlist.m3u8
+ 
+#EXTINF:-1,VENEZUELA:TeleSUR
+http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
+ 
+#EXTINF:-1,Viaje Salvaje |
+https://archive.org/download/2132154654SRREGIO.NET/21321546548978456132.mkv
+ 
+#EXTINF:-1, group-title="RELIGION" tvg-logo="http://static.wixstatic.com/media/c38be3_0cf530338264f47420d5237f029b2d6d.png_512",vicion celestial
+http://streaming.omeganet.org:1935/vc/envivo/chunklist_w1068747420.m3u8
+ 
+#EXTINF:-1,Videomix:SheepMix
+https://ia601302.us.archive.org/7/items/DJPanduroSheepMix/DJ%20Panduro%20-%20SheepMix.mp4
+ 
+#EXTINF:-1, tvg-logo="http://static.wixstatic.com/media/c38be3_0cf530338264f47420d5237f029b2d6d.png_512" group-title="RELIGION",Vision Celestial
+http://streaming.omeganet.org:1935/vc/envivo/chunklist_w1068747420.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:-1,WEB TV:NAT GEO
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+ 
+#EXTINF:-1,WEB TV:NAT GEO WILD
+http://stmv1.euroti.com.br:1935/tv487/tv487/live.m3u8
+ 
+#EXTINF:-1,Wheelman |
+https://archive.org/download/96352487.SRREGIO.NET/96352487.SRREGIO.NET.mp4
+ 
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/" group-title="ENTRETENIMIENTO ",WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+ 
+#EXTINF:-1,WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+ 
+#EXTINF:-1,wowtv
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+ 
+#EXTINF:-1,Zombiology |
+https://archive.org/download/Zy.SRREGIO/Zy.SRREGIO.mkv
